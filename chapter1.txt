@@ -1,2 +1,4 @@
 This is chapter 1.
-I modified it in branch-a
+I modified it in branch
+
+Chapter B after A
